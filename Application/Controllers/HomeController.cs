@@ -18,8 +18,8 @@ namespace Application.Controllers
         {
             //var list = await UsersBL.Instance.FindAll();
             UserUtility userUtility = new UserUtility();
-            userUtility.Gender = 2;            
-            var list = await UsersBL.Instance.FindByFilter(userUtility.ToFilterDefinition());
+            userUtility.DeletedFlag = true;            
+            var list = await UsersBL.Instance.FindByFilter(userUtility.ToFilterDefinitionWithoutDeletedFlag());
             return View(list);
         }
 

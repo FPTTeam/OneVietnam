@@ -31,7 +31,15 @@ namespace BLL
 
         public async Task<IEnumerable<User>> FindByFilter(FilterDefinition<User> filter)
         {
-            return await _repository.FindByFilter(filter);
+            if (filter == null)
+            {
+                return await _repository.FindAll();
+            }
+            else
+            {
+                return await _repository.FindByFilter(filter);
+            }
+            
         }
         /// <summary>
         /// Find All Active Users
