@@ -52,3 +52,21 @@ D:\Study\Capstone Project\OneVietnam\BLL\bin\Debug\MongoDB.Driver.Legacy.xml
 D:\Study\Capstone Project\OneVietnam\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 D:\Study\Capstone Project\OneVietnam\BLL\obj\Debug\BLL.dll
 D:\Study\Capstone Project\OneVietnam\BLL\obj\Debug\BLL.pdb
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\bin\Debug\BLL.dll
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\bin\Debug\BLL.pdb
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\bin\Debug\DAL.dll
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\bin\Debug\Entities.dll
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\bin\Debug\MongoDB.Bson.dll
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\bin\Debug\MongoDB.Driver.dll
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\bin\Debug\Unities.dll
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\bin\Debug\DAL.pdb
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\bin\Debug\Entities.pdb
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\bin\Debug\Unities.pdb
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\bin\Debug\MongoDB.Bson.xml
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\bin\Debug\MongoDB.Driver.xml
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\obj\Debug\BLL.dll
+C:\Users\Toan\Source\Repos\OneVietnam\BLL\obj\Debug\BLL.pdb

@@ -183,3 +183,6 @@ D:\Study\Capstone Project\OneVietnam\Application\bin\DAL.pdb
 D:\Study\Capstone Project\OneVietnam\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
 D:\Study\Capstone Project\OneVietnam\Application\obj\Debug\Application.dll
 D:\Study\Capstone Project\OneVietnam\Application\obj\Debug\Application.pdb
+C:\Users\Toan\Source\Repos\OneVietnam\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\Toan\Source\Repos\OneVietnam\Application\obj\Debug\Application.dll
+C:\Users\Toan\Source\Repos\OneVietnam\Application\obj\Debug\Application.pdb

@@ -22,3 +22,15 @@ D:\Study\Capstone Project\MyVietnam\MyVietnam\Entities\bin\Debug\MongoDB.Driver.
 D:\Study\Capstone Project\MyVietnam\MyVietnam\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
 D:\Study\Capstone Project\MyVietnam\MyVietnam\Entities\obj\Debug\Entities.dll
 D:\Study\Capstone Project\MyVietnam\MyVietnam\Entities\obj\Debug\Entities.pdb
+C:\Users\Toan\Source\Repos\OneVietnam\Entities\bin\Debug\Entities.dll
+C:\Users\Toan\Source\Repos\OneVietnam\Entities\bin\Debug\Entities.pdb
+C:\Users\Toan\Source\Repos\OneVietnam\Entities\bin\Debug\MongoDB.Bson.dll
+C:\Users\Toan\Source\Repos\OneVietnam\Entities\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Toan\Source\Repos\OneVietnam\Entities\bin\Debug\MongoDB.Driver.dll
+C:\Users\Toan\Source\Repos\OneVietnam\Entities\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Toan\Source\Repos\OneVietnam\Entities\bin\Debug\MongoDB.Bson.xml
+C:\Users\Toan\Source\Repos\OneVietnam\Entities\bin\Debug\MongoDB.Driver.xml
+C:\Users\Toan\Source\Repos\OneVietnam\Entities\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Toan\Source\Repos\OneVietnam\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Toan\Source\Repos\OneVietnam\Entities\obj\Debug\Entities.dll
+C:\Users\Toan\Source\Repos\OneVietnam\Entities\obj\Debug\Entities.pdb
