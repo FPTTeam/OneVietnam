@@ -22,3 +22,15 @@ D:\Study\Capstone Project\MyVietnam\MyVietnam\Entities\bin\Debug\MongoDB.Driver.
 D:\Study\Capstone Project\MyVietnam\MyVietnam\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
 D:\Study\Capstone Project\MyVietnam\MyVietnam\Entities\obj\Debug\Entities.dll
 D:\Study\Capstone Project\MyVietnam\MyVietnam\Entities\obj\Debug\Entities.pdb
+F:\Program\OneVietnam\OneVietnam\Entities\bin\Debug\Entities.dll
+F:\Program\OneVietnam\OneVietnam\Entities\bin\Debug\Entities.pdb
+F:\Program\OneVietnam\OneVietnam\Entities\bin\Debug\MongoDB.Bson.dll
+F:\Program\OneVietnam\OneVietnam\Entities\bin\Debug\MongoDB.Driver.Core.dll
+F:\Program\OneVietnam\OneVietnam\Entities\bin\Debug\MongoDB.Driver.dll
+F:\Program\OneVietnam\OneVietnam\Entities\bin\Debug\MongoDB.Driver.Legacy.dll
+F:\Program\OneVietnam\OneVietnam\Entities\bin\Debug\MongoDB.Bson.xml
+F:\Program\OneVietnam\OneVietnam\Entities\bin\Debug\MongoDB.Driver.xml
+F:\Program\OneVietnam\OneVietnam\Entities\bin\Debug\MongoDB.Driver.Legacy.xml
+F:\Program\OneVietnam\OneVietnam\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+F:\Program\OneVietnam\OneVietnam\Entities\obj\Debug\Entities.dll
+F:\Program\OneVietnam\OneVietnam\Entities\obj\Debug\Entities.pdb

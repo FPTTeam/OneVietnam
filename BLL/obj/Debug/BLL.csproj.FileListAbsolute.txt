@@ -52,3 +52,21 @@ D:\Study\Capstone Project\OneVietnam\BLL\bin\Debug\MongoDB.Driver.Legacy.xml
 D:\Study\Capstone Project\OneVietnam\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 D:\Study\Capstone Project\OneVietnam\BLL\obj\Debug\BLL.dll
 D:\Study\Capstone Project\OneVietnam\BLL\obj\Debug\BLL.pdb
+F:\Program\OneVietnam\OneVietnam\BLL\bin\Debug\BLL.dll
+F:\Program\OneVietnam\OneVietnam\BLL\bin\Debug\BLL.pdb
+F:\Program\OneVietnam\OneVietnam\BLL\bin\Debug\DAL.dll
+F:\Program\OneVietnam\OneVietnam\BLL\bin\Debug\Entities.dll
+F:\Program\OneVietnam\OneVietnam\BLL\bin\Debug\MongoDB.Bson.dll
+F:\Program\OneVietnam\OneVietnam\BLL\bin\Debug\MongoDB.Driver.Core.dll
+F:\Program\OneVietnam\OneVietnam\BLL\bin\Debug\MongoDB.Driver.dll
+F:\Program\OneVietnam\OneVietnam\BLL\bin\Debug\MongoDB.Driver.Legacy.dll
+F:\Program\OneVietnam\OneVietnam\BLL\bin\Debug\Unities.dll
+F:\Program\OneVietnam\OneVietnam\BLL\bin\Debug\DAL.pdb
+F:\Program\OneVietnam\OneVietnam\BLL\bin\Debug\Entities.pdb
+F:\Program\OneVietnam\OneVietnam\BLL\bin\Debug\Unities.pdb
+F:\Program\OneVietnam\OneVietnam\BLL\bin\Debug\MongoDB.Bson.xml
+F:\Program\OneVietnam\OneVietnam\BLL\bin\Debug\MongoDB.Driver.xml
+F:\Program\OneVietnam\OneVietnam\BLL\bin\Debug\MongoDB.Driver.Legacy.xml
+F:\Program\OneVietnam\OneVietnam\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Program\OneVietnam\OneVietnam\BLL\obj\Debug\BLL.dll
+F:\Program\OneVietnam\OneVietnam\BLL\obj\Debug\BLL.pdb

@@ -30,3 +30,20 @@ D:\Study\Capstone Project\MyVietnam\MyVietnam\DAL\bin\Debug\MongoDB.Driver.Legac
 D:\Study\Capstone Project\MyVietnam\MyVietnam\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 D:\Study\Capstone Project\MyVietnam\MyVietnam\DAL\obj\Debug\DAL.dll
 D:\Study\Capstone Project\MyVietnam\MyVietnam\DAL\obj\Debug\DAL.pdb
+F:\Program\OneVietnam\OneVietnam\DAL\bin\Debug\DAL.dll.config
+F:\Program\OneVietnam\OneVietnam\DAL\bin\Debug\DAL.dll
+F:\Program\OneVietnam\OneVietnam\DAL\bin\Debug\DAL.pdb
+F:\Program\OneVietnam\OneVietnam\DAL\bin\Debug\Entities.dll
+F:\Program\OneVietnam\OneVietnam\DAL\bin\Debug\MongoDB.Bson.dll
+F:\Program\OneVietnam\OneVietnam\DAL\bin\Debug\MongoDB.Driver.Core.dll
+F:\Program\OneVietnam\OneVietnam\DAL\bin\Debug\MongoDB.Driver.dll
+F:\Program\OneVietnam\OneVietnam\DAL\bin\Debug\MongoDB.Driver.Legacy.dll
+F:\Program\OneVietnam\OneVietnam\DAL\bin\Debug\Unities.dll
+F:\Program\OneVietnam\OneVietnam\DAL\bin\Debug\Entities.pdb
+F:\Program\OneVietnam\OneVietnam\DAL\bin\Debug\Unities.pdb
+F:\Program\OneVietnam\OneVietnam\DAL\bin\Debug\MongoDB.Bson.xml
+F:\Program\OneVietnam\OneVietnam\DAL\bin\Debug\MongoDB.Driver.xml
+F:\Program\OneVietnam\OneVietnam\DAL\bin\Debug\MongoDB.Driver.Legacy.xml
+F:\Program\OneVietnam\OneVietnam\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Program\OneVietnam\OneVietnam\DAL\obj\Debug\DAL.dll
+F:\Program\OneVietnam\OneVietnam\DAL\obj\Debug\DAL.pdb

@@ -10,3 +10,15 @@ D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\bin\Debug\MongoDB.Driver.x
 D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
 D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\obj\Debug\Unities.dll
 D:\Study\Capstone Project\MyVietnam\MyVietnam\Unities\obj\Debug\Unities.pdb
+F:\Program\OneVietnam\OneVietnam\Unities\bin\Debug\Unities.dll
+F:\Program\OneVietnam\OneVietnam\Unities\bin\Debug\Unities.pdb
+F:\Program\OneVietnam\OneVietnam\Unities\bin\Debug\Entities.dll
+F:\Program\OneVietnam\OneVietnam\Unities\bin\Debug\MongoDB.Bson.dll
+F:\Program\OneVietnam\OneVietnam\Unities\bin\Debug\MongoDB.Driver.Core.dll
+F:\Program\OneVietnam\OneVietnam\Unities\bin\Debug\MongoDB.Driver.dll
+F:\Program\OneVietnam\OneVietnam\Unities\bin\Debug\Entities.pdb
+F:\Program\OneVietnam\OneVietnam\Unities\bin\Debug\MongoDB.Bson.xml
+F:\Program\OneVietnam\OneVietnam\Unities\bin\Debug\MongoDB.Driver.xml
+F:\Program\OneVietnam\OneVietnam\Unities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+F:\Program\OneVietnam\OneVietnam\Unities\obj\Debug\Unities.dll
+F:\Program\OneVietnam\OneVietnam\Unities\obj\Debug\Unities.pdb
