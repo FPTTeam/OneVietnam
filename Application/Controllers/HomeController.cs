@@ -18,7 +18,7 @@ namespace Application.Controllers
         {
             //var list = await UsersBL.Instance.FindAll();
             UserUtility userUtility = new UserUtility();
-            userUtility.Gender = 2;            
+            userUtility.Gender = 0;            
             var list = await UsersBL.Instance.FindByFilter(userUtility.ToFilterDefinition());
             return View(list);
         }

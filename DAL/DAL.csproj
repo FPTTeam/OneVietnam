@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="BaseFilter.cs" />
     <Compile Include="BaseMongoService.cs" />
+    <Compile Include="CountryDAO.cs" />
+    <Compile Include="CountryFilterCondition.cs" />
     <Compile Include="DbConfig.cs" />
     <Compile Include="IBaseService.cs" />
     <Compile Include="MongoService.cs" />

@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseEntity.cs" />
+    <Compile Include="Country.cs" />
     <Compile Include="Enums.cs" />
     <Compile Include="Illustration.cs" />
     <Compile Include="Post.cs" />
