@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 /// <summary>
-/// Country where user is living
+/// 使用者が住んでいる国のオブジェクト
 /// </summary>
 /// <created>
 /// ThamDTH - 2016/05/09
@@ -14,8 +14,14 @@ namespace Entities
 {
     public class Country : BaseEntity
     {
-        private string mStrCountryName;         //Country name
+        private string mStrCountryName;         //国名
 
+        /// <summary>
+        /// 国名を取得又は国名をセット
+        /// </summary>
+        /// <created>
+        /// ThamDTH - 2016/05/09
+        /// </created> 
         public string MStrCountryName
         {
             get
@@ -29,8 +35,14 @@ namespace Entities
             }
         }
 
-        private byte[] mByteCountryFlag;        //Flag of this country
+        private byte[] mByteCountryFlag;        //国旗
 
+        /// <summary>
+        /// 国旗を取得又は国旗をセット
+        /// </summary>
+        /// <created>
+        /// ThamDTH - 2016/05/09
+        /// </created>
         public byte[] MByteCountryFlag
         {
             get
@@ -45,7 +57,7 @@ namespace Entities
         }
 
         /// <summary>
-        /// Default Constructor when create a new Country object
+        /// 新国を追加する時のデフォルトオブジェクト
         /// </summary>
         /// <created>
         /// ThamDTH - 2016/05/09
@@ -57,10 +69,10 @@ namespace Entities
         }
 
         /// <summary>
-        /// Constructor when create a new Country object with name and flag were added
+        /// 新国を追加する時、国名と国旗があるオブジェクト
         /// </summary>
-        /// <param name="pStrCountryName">Country name</param>
-        /// <param name="pByteCountryFlag">Flag of country</param>
+        /// <param name="pStrCountryName">国名</param>
+        /// <param name="pByteCountryFlag">国旗</param>
         /// <created>
         /// ThamDTH - 2016/05/09
         /// </created>
