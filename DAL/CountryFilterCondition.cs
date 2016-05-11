@@ -3,17 +3,23 @@ using MongoDB.Driver;
 using Entities;
 namespace DAL
 {
-    /// <summary>
-    /// Object to create querry string in Country document (DB)
+    /// <summary>  
+    /// データベースから取得する国のクエリストリングを作成
     /// </summary>
     /// <created>
     /// ThamDTH - 2016/05/09
     /// </created>
     public class CountryFilterCondition
     {
-        private string mStrName;        //Country Name
-        private byte[] mByteFlag;       //Country Flag
+        private string mStrName;        //国名
+        private byte[] mByteFlag;       //国旗
 
+        /// <summary>
+        /// 国名を取得又は国名をセット
+        /// </summary>
+        /// <created>
+        /// ThamDTH - 2016/05/09
+        /// </created> 
         public string MStrName
         {
             get
@@ -27,6 +33,12 @@ namespace DAL
             }
         }
 
+        /// <summary>
+        /// 国旗を取得又は国旗をセット
+        /// </summary>
+        /// <created>
+        /// ThamDTH - 2016/05/09
+        /// </created>
         public byte[] MByteFlag
         {
             get
@@ -41,7 +53,7 @@ namespace DAL
         }
 
         /// <summary>
-        /// Default Constructor when create a new CountrySelectCondition object
+        /// クエリストリングを追加する時のデフォルトオブジェクト
         /// </summary>
         /// <created>
         /// ThamDTH - 2016/05/09
@@ -53,12 +65,12 @@ namespace DAL
         }
 
         /// <summary>
-        /// Create filter string to search
+        /// クエリストリングを追加する時、フィルタ条件があるオブジェクト
         /// </summary>
         /// <created>
         /// ThamDTH - 2016/05/09
         /// </created>
-        /// <returns>Filter String of Country object</returns>
+        /// <returns>フィルタ条件に従うクエリストリング</returns>
         public FilterDefinition<Country> ToFilterString()
         {
             var builder = Builders<Country>.Filter;
